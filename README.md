@@ -8,7 +8,7 @@ Example:
 
 ```text id="j4nr0f"
 CP/
-└── 800/
+└── rating_800/
     └── A71.java
 ```
 
