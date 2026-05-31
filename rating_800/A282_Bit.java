@@ -21,6 +21,8 @@ public class A282_Bit {
         }
 
         System.out.println(x);
+
+        sc.close();
         
     }
     

@@ -28,6 +28,8 @@ public class A158_NextRound {
 
         System.out.println(count);
 
+        sc.close();
+
     }
     
 }
