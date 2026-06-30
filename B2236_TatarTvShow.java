@@ -33,5 +33,7 @@ public class B2236_TatarTvShow{
 
             System.out.println(possible ? "YES" : "NO");
         }
+
+        sc.close();
     }
 }

@@ -26,6 +26,8 @@ public class A2236_GamesOnTheTrain{
 
             System.out.println(max - min + 1);
         }
+
+        sc.close();
     }
     
 }
